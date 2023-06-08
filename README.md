@@ -20,6 +20,10 @@ Currently in formation at Wild Code School to be a Fullstack Web Developer 🖥�
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zanelidd&theme=dark)
+
 <!--
 **Zanelidd/Zanelidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
