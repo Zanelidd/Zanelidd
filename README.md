@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Damien 
 
-Currently in formation at Wild Code School to be a Fullstack Web Developer 🖥️
+Currently looking for a permanent FullStack developer position 🖥️
 
 
 
