@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Damien 
 
-Currently looking for a permanent FullStack developer position 🖥️
+Currently looking for a permanent FullStack developer or Front End position 🖥️
 
 
 
