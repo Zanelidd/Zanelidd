@@ -21,7 +21,7 @@ Currently looking for a permanent FullStack developer position 🖥️
 
 
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zanelidd&theme=dark)
+
 
 <!--
 **Zanelidd/Zanelidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
