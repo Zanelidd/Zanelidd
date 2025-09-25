@@ -20,7 +20,6 @@ Currently looking for a permanent FullStack developer position 🖥️
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zanelidd&theme=dark)
 
 
 <!--
